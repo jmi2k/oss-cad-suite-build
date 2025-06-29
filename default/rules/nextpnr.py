@@ -4,7 +4,7 @@ from src.base import SourceLocation, Target
 SourceLocation(
 	name = 'nextpnr',
 	vcs = 'git',
-	location = 'https://github.com/YosysHQ/nextpnr',
+	location = 'https://github.com/jmi2k/nextpnr',
 	revision = 'origin/master',
 	license_file = 'COPYING',
 )
